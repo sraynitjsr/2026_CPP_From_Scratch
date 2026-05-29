@@ -10,15 +10,18 @@ To compile and run the Hello World program:
 
 ```bash
 # Compile
-g++ hello.cpp -o hello
+g++ main.cpp -o main
 
 # Run
-./hello
+./main
 ```
+
+## Directly Run This => g++ main.cpp -o main && ./main
 
 ## Programs
 
-- `hello.cpp` - First C++ program: Hello World
+- `main.cpp` - First C++ program: Hello World
 
 ---
+
 Let Me Show How To Write Scalable C++ Code From Scratch - Beginner To C++ Monster 
